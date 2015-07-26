@@ -1,6 +1,6 @@
 # Peer Assessment 2 for Reproducible Research
 
-My [RPubs Reproducible Research](http://rpubs.com/wagnersq/97005) publishing 
+My [RPubs Url](http://rpubs.com/wagnersq/97005) publishing 
 
 
 ### Introduction
