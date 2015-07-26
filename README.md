@@ -1,6 +1,6 @@
 # Peer Assessment 2 for Reproducible Research
 
-My [Coursera Reproducible Research](https://github.com/wagnersq/RepData_PeerAssessment2) Repo 
+My [RPubs Reproducible Research](http://rpubs.com/wagnersq/97005) publishing 
 
 
 ### Introduction
